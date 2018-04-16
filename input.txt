@@ -1,0 +1,6 @@
+Sam     450
+Claire  20
+Knut    197
+Danny   252
+Dan     0
+Bing    160
